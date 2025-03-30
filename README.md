@@ -1,0 +1,2 @@
+# whisper_fanyi
+用whisper提取字幕后自动扔去给ai翻译，可批处理整个资料夹
